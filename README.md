@@ -1,1 +1,1 @@
-# lecture-api-testing
+./gradlew clean build
